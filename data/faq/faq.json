@@ -1,0 +1,226 @@
+[
+  {
+    "question": "¿Cuáles son los métodos de pago disponibles en Ecomarket?",
+    "answer": "Puedes pagar tus pedidos con tarjeta de crédito, débito, PayPal, transferencia bancaria y próximamente con pagos móviles."
+  },
+  {
+    "question": "¿Puedo pagar en efectivo al recibir el pedido?",
+    "answer": "Actualmente no ofrecemos pago contra entrega. Todos los pagos deben realizarse en línea."
+  },
+  {
+    "question": "¿Hay algún monto mínimo de compra?",
+    "answer": "No, no hay monto mínimo de compra en Ecomarket."
+  },
+  {
+    "question": "¿Puedo rastrear mi pedido?",
+    "answer": "Sí, una vez enviado el pedido recibirás un correo con el número de seguimiento y un enlace a la página de la empresa de mensajería."
+  },
+  {
+    "question": "¿Cuánto tarda en llegar un pedido?",
+    "answer": "Los pedidos nacionales tardan entre 3 y 7 días hábiles, y los internacionales entre 10 y 20 días hábiles según el país."
+  },
+  {
+    "question": "¿Puedo cambiar la dirección de envío después de hacer un pedido?",
+    "answer": "Solo si el pedido aún no ha sido enviado. Contacta a nuestro soporte dentro de las 24 horas siguientes a la compra."
+  },
+  {
+    "question": "¿Qué hago si recibo un producto dañado o incorrecto?",
+    "answer": "Contáctanos dentro de los 7 días hábiles posteriores a la entrega. Te guiaremos para devolverlo y enviar un reemplazo sin costo."
+  },
+  {
+    "question": "¿Puedo devolver un producto si no me gusta?",
+    "answer": "Sí, puedes devolver productos dentro de los 30 días posteriores a la recepción, siempre que estén en perfecto estado y con su empaque original."
+  },
+  {
+    "question": "¿Hay productos que no pueda devolver?",
+    "answer": "No se pueden devolver tarjetas de regalo, productos descargables, software digital o productos personalizados."
+  },
+  {
+    "question": "¿Cómo solicito una devolución?",
+    "answer": "Ingresa a tu cuenta, selecciona el pedido, haz clic en 'Solicitar devolución', completa el formulario y sigue las instrucciones."
+  },
+  {
+    "question": "¿Cuándo recibiré mi reembolso?",
+    "answer": "Una vez recibamos el producto y confirmemos que cumple las condiciones, procesaremos tu reembolso usando el mismo método de pago."
+  },
+  {
+    "question": "¿Puedo cambiar un producto por otro?",
+    "answer": "Sí, primero debes devolver el producto. Luego podrás realizar un nuevo pedido del producto deseado."
+  },
+  {
+    "question": "¿Ecomarket ofrece descuentos o cupones?",
+    "answer": "Sí, ofrecemos promociones y cupones regularmente. Suscríbete al boletín para recibir las ofertas."
+  },
+  {
+    "question": "¿Es seguro comprar en Ecomarket?",
+    "answer": "Sí, utilizamos protocolos de seguridad avanzados para proteger tus datos y garantizar pagos seguros."
+  },
+  {
+    "question": "¿Puedo modificar mi pedido después de realizarlo?",
+    "answer": "Solo si aún no ha sido procesado. Contacta soporte lo antes posible para solicitar cambios."
+  },
+  {
+    "question": "¿Qué hago si olvidé mi contraseña?",
+    "answer": "Haz clic en 'Olvidé mi contraseña' en la página de inicio de sesión y sigue las instrucciones para restablecerla."
+  },
+  {
+    "question": "¿Ecomarket realiza envíos internacionales?",
+    "answer": "Sí, realizamos envíos a varios países. El costo y tiempo dependerán del destino."
+  },
+  {
+    "question": "¿Puedo combinar varias promociones en un mismo pedido?",
+    "answer": "No, solo se puede aplicar una promoción o cupón por pedido."
+  },
+  {
+    "question": "¿Ecomarket ofrece garantía en sus productos?",
+    "answer": "Sí, todos los productos cuentan con garantía del fabricante. Consulta la página del producto para detalles específicos."
+  },
+  {
+    "question": "¿Cómo contacto al servicio al cliente?",
+    "answer": "Puedes contactarnos por correo a soporte@ecomarket.com, por teléfono al +57 300 000 0000, o mediante el chat en línea."
+  },
+  {
+    "question": "¿Ecomarket guarda mis datos para futuras compras?",
+    "answer": "Sí, tu información se guarda de manera segura para facilitar futuras compras."
+  },
+  {
+    "question": "¿Qué debo hacer si mi paquete no llega en el tiempo estimado?",
+    "answer": "Contacta a nuestro equipo de soporte con tu número de pedido. Investigaremos con la empresa de mensajería y te daremos una solución."
+  },
+  {
+    "question": "¿Puedo pedir factura con mi NIT o identificación?",
+    "answer": "Sí, puedes solicitar la factura al momento de finalizar tu compra ingresando tu información fiscal."
+  },
+  {
+    "question": "¿Se puede cambiar un pedido a domicilio por recogida en tienda?",
+    "answer": "No es posible cambiar la modalidad de envío una vez hecho el pedido. Debes realizar un nuevo pedido con la opción deseada."
+  },
+  {
+    "question": "¿Puedo cancelar un pedido?",
+    "answer": "Solo si el pedido aún no ha sido procesado. Contacta soporte inmediatamente para intentar la cancelación."
+  },
+  {
+    "question": "¿Puedo devolver productos parcialmente?",
+    "answer": "Sí, puedes devolver solo algunos artículos de un pedido, siempre que cumplan con las condiciones de devolución."
+  },
+  {
+    "question": "¿Cómo sé si un producto está disponible?",
+    "answer": "En la página del producto se muestra la disponibilidad en tiempo real."
+  },
+  {
+    "question": "¿Puedo recibir notificaciones de promociones y novedades?",
+    "answer": "Sí, suscríbete a nuestro boletín y recibe noticias sobre ofertas y nuevos productos."
+  },
+  {
+    "question": "¿Qué hago si hay un problema con el pago?",
+    "answer": "Contacta a nuestro equipo de soporte indicando el método de pago usado y el error recibido."
+  },
+  {
+    "question": "¿Puedo agendar la entrega de mi pedido?",
+    "answer": "Actualmente no ofrecemos servicio de agendamiento. Los pedidos se entregan según la disponibilidad de la empresa de mensajería."
+  },
+  {
+    "question": "¿Ecomarket ofrece envíos gratuitos?",
+    "answer": "Sí, ofrecemos envíos gratuitos en pedidos que superen un monto mínimo o durante promociones especiales."
+  },
+  {
+    "question": "¿Puedo cambiar la forma de pago después de hacer el pedido?",
+    "answer": "No, la forma de pago no se puede cambiar una vez realizado el pedido."
+  },
+  {
+    "question": "¿Qué hago si recibo un producto con accesorios faltantes?",
+    "answer": "Contacta soporte inmediatamente. Gestionaremos el envío de los accesorios faltantes sin costo."
+  },
+  {
+    "question": "¿Cómo puedo dejar una reseña de un producto?",
+    "answer": "En la página del producto, baja a la sección de reseñas y haz clic en 'Escribir reseña'."
+  },
+  {
+    "question": "¿Ecomarket protege mi información personal?",
+    "answer": "Sí, seguimos estrictas políticas de privacidad y encriptación de datos."
+  },
+  {
+    "question": "¿Qué hago si mi cuenta fue bloqueada?",
+    "answer": "Contacta soporte indicando tu correo asociado. Te ayudaremos a recuperar el acceso."
+  },
+  {
+    "question": "¿Ecomarket ofrece tarjetas de regalo?",
+    "answer": "Sí, puedes comprar tarjetas de regalo en distintos montos para regalar a familiares o amigos."
+  },
+  {
+    "question": "¿Cómo utilizo un código de descuento?",
+    "answer": "Ingresa el código durante el proceso de pago en el campo 'Código de descuento' y haz clic en aplicar."
+  },
+  {
+    "question": "¿Puedo devolver un producto comprado en promoción?",
+    "answer": "Sí, los productos en promoción pueden devolverse si cumplen las condiciones generales de devolución."
+  },
+  {
+    "question": "¿Ecomarket ofrece soporte en chat en vivo?",
+    "answer": "Sí, nuestro chat en vivo está disponible en la web durante horario laboral."
+  },
+  {
+    "question": "¿Puedo modificar mi dirección de correo electrónico en mi cuenta?",
+    "answer": "Sí, ingresa a tu perfil y actualiza tu correo electrónico en la sección de información personal."
+  },
+  {
+    "question": "¿Qué hago si olvidé aplicar un cupón antes de pagar?",
+    "answer": "Lamentablemente, no es posible aplicar un cupón después de realizar el pago. Puedes usarlo en un futuro pedido."
+  },
+  {
+    "question": "¿Puedo devolver un producto comprado con tarjeta de regalo?",
+    "answer": "Sí, el reembolso se realizará al saldo de tu tarjeta de regalo."
+  },
+  {
+    "question": "¿Ecomarket envía confirmación de pedido por WhatsApp?",
+    "answer": "Por el momento, enviamos confirmación por correo electrónico solamente."
+  },
+  {
+    "question": "¿Qué hago si recibo un pedido incompleto?",
+    "answer": "Contacta soporte proporcionando el número de pedido. Te enviaremos los productos faltantes sin costo adicional."
+  },
+  {
+    "question": "¿Puedo programar compras recurrentes?",
+    "answer": "Actualmente no ofrecemos compras recurrentes automáticas, pero puedes realizar pedidos manuales cuando lo necesites."
+  },
+  {
+    "question": "¿Puedo suscribirme a notificaciones de mi pedido?",
+    "answer": "Sí, al crear tu cuenta puedes activar notificaciones por correo electrónico sobre el estado de tu pedido."
+  },
+  {
+    "question": "¿Cómo puedo eliminar mi cuenta?",
+    "answer": "Contacta a soporte solicitando la eliminación de tu cuenta. Te confirmaremos cuando todos tus datos hayan sido eliminados."
+  },
+  {
+    "question": "¿Qué hago si encuentro un error en la página web?",
+    "answer": "Por favor, reporta el error a soporte indicando la sección y el problema encontrado para poder solucionarlo rápidamente."
+  },
+  {
+    "question": "¿Puedo usar varios métodos de pago en un mismo pedido?",
+    "answer": "No, solo se permite un método de pago por pedido."
+  },
+  {
+    "question": "¿Puedo devolver un producto comprado hace más de 30 días?",
+    "answer": "No, los productos solo pueden devolverse dentro de los 30 días posteriores a la entrega."
+  },
+  {
+    "question": "¿Ecomarket ofrece envíos express?",
+    "answer": "Sí, puedes seleccionar envío express al momento de finalizar tu pedido. Aplica un costo adicional."
+  },
+  {
+    "question": "¿Puedo recibir factura electrónica?",
+    "answer": "Sí, al momento de la compra puedes solicitar factura electrónica ingresando tus datos fiscales."
+  },
+  {
+    "question": "¿Cómo puedo actualizar mis datos personales?",
+    "answer": "Ingresa a tu perfil en la cuenta y modifica la información que desees actualizar."
+  },
+  {
+    "question": "¿Puedo pedir productos fuera de stock?",
+    "answer": "No, solo se pueden comprar productos disponibles en stock en ese momento."
+  },
+  {
+    "question": "¿Ecomarket ofrece soporte técnico para productos electrónicos?",
+    "answer": "Sí, ofrecemos soporte técnico básico. Para reparaciones o garantías específicas, contacta al fabricante."
+  }
+]

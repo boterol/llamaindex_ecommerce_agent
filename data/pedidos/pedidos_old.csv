@@ -1,0 +1,94 @@
+id,nombre_comprador,email,nombre_producto,cantidad,precio,total,estado,fecha_pedido,fecha_entrega
+1,Luis Fernández,luis.fernandez@example.com,Set de Bolsas Reutilizables,2,12.50,25.00,enviado,2025-09-15,2025-09-20
+2,María Gómez,maria.gomez@example.com,Botella de Agua de Acero Inoxidable,1,18.75,18.75,entregado,2025-09-18,2025-09-22
+3,Juan Pérez,juan.perez@example.com,Kit de Pajitas Reutilizables,3,5.50,16.50,pendiente,2025-09-20,2025-09-25
+4,Carolina Rojas,carolina.rojas@example.com,Cubo de Compostaje de Cocina,1,45.00,45.00,enviado,2025-09-21,2025-09-28
+5,Andrés Torres,andres.torres@example.com,Lápices de Madera Reciclada,10,0.75,7.50,entregado,2025-09-22,2025-09-26
+6,Sofía Martínez,sofia.martinez@example.com,Paquete de Bolsas de Algodón,5,4.50,22.50,pendiente,2025-09-23,2025-09-28
+7,Diego Castro,diego.castro@example.com,Set de Cepillos de Bambú,2,9.99,19.98,enviado,2025-09-24,2025-09-29
+8,Valentina Ruiz,valentina.ruiz@example.com,Detergente Ecológico Líquido,1,14.25,14.25,entregado,2025-09-25,2025-10-01
+9,Luis Fernández,luis.fernandez@example.com,Paquete de Filtros de Café Reutilizables,2,6.50,13.00,enviado,2025-09-26,2025-10-02
+10,María Gómez,maria.gomez@example.com,Set de Botellas de Vidrio,1,22.00,22.00,pendiente,2025-09-27,2025-10-03
+11,Juan Pérez,juan.perez@example.com,Bolsas de Malla para Verduras,3,3.50,10.50,enviado,2025-09-28,2025-10-04
+12,Carolina Rojas,carolina.rojas@example.com,Set de Cubiertos Reutilizables,2,11.00,22.00,entregado,2025-09-29,2025-10-05
+13,Andrés Torres,andres.torres@example.com,Paquete de Jabones Naturales,4,2.75,11.00,pendiente,2025-09-30,2025-10-06
+14,Sofía Martínez,sofia.martinez@example.com,Set de Toallas de Algodón Orgánico,1,35.00,35.00,enviado,2025-10-01,2025-10-07
+15,Diego Castro,diego.castro@example.com,Botella de Vidrio con Infusor,2,15.50,31.00,entregado,2025-10-02,2025-10-08
+16,Valentina Ruiz,valentina.ruiz@example.com,Lámpara Solar de Jardín,1,40.00,40.00,pendiente,2025-10-03,2025-10-10
+17,Luis Fernández,luis.fernandez@example.com,Set de Platos Biodegradables,5,3.25,16.25,enviado,2025-10-04,2025-10-09
+18,María Gómez,maria.gomez@example.com,Paquete de Bolsas de Té Reutilizables,3,2.50,7.50,entregado,2025-10-05,2025-10-11
+19,Juan Pérez,juan.perez@example.com,Cubo de Compostaje Exterior,1,55.00,55.00,pendiente,2025-10-06,2025-10-14
+20,Carolina Rojas,carolina.rojas@example.com,Lápices de Bambú,10,0.85,8.50,enviado,2025-10-07,2025-10-12
+21,Andrés Torres,andres.torres@example.com,Set de Pajitas de Acero Inoxidable,3,4.99,14.97,entregado,2025-10-08,2025-10-14
+22,Sofía Martínez,sofia.martinez@example.com,Paquete de Bolsas Reutilizables,2,12.50,25.00,pendiente,2025-10-09,2025-10-15
+23,Diego Castro,diego.castro@example.com,Botella de Agua Ecológica,1,18.75,18.75,enviado,2025-10-10,2025-10-16
+24,Valentina Ruiz,valentina.ruiz@example.com,Set de Cubiertos de Bambú,2,11.00,22.00,entregado,2025-10-11,2025-10-17
+25,Luis Fernández,luis.fernandez@example.com,Detergente Ecológico en Polvo,1,14.25,14.25,pendiente,2025-10-12,2025-10-18
+26,María Gómez,maria.gomez@example.com,Paquete de Filtros de Café Reutilizables,2,6.50,13.00,enviado,2025-10-13,2025-10-19
+27,Juan Pérez,juan.perez@example.com,Bolsas de Malla para Frutas,3,3.50,10.50,entregado,2025-10-13,2025-10-20
+28,Carolina Rojas,carolina.rojas@example.com,Set de Toallas de Algodón Orgánico,1,35.00,35.00,pendiente,2025-10-12,2025-10-19
+29,Andrés Torres,andres.torres@example.com,Botella de Vidrio con Infusor,2,15.50,31.00,enviado,2025-10-11,2025-10-18
+30,Sofía Martínez,sofia.martinez@example.com,Lámpara Solar de Jardín,1,40.00,40.00,entregado,2025-10-10,2025-10-17
+31,Diego Castro,diego.castro@example.com,Set de Platos Biodegradables,5,3.25,16.25,pendiente,2025-10-09,2025-10-16
+32,Valentina Ruiz,valentina.ruiz@example.com,Paquete de Bolsas de Té Reutilizables,3,2.50,7.50,enviado,2025-10-08,2025-10-15
+33,Luis Fernández,luis.fernandez@example.com,Cubo de Compostaje Exterior,1,55.00,55.00,entregado,2025-10-07,2025-10-14
+34,María Gómez,maria.gomez@example.com,Lápices de Bambú,10,0.85,8.50,pendiente,2025-10-06,2025-10-13
+35,Juan Pérez,juan.perez@example.com,Set de Pajitas de Acero Inoxidable,3,4.99,14.97,enviado,2025-10-05,2025-10-12
+36,Carolina Rojas,carolina.rojas@example.com,Paquete de Bolsas Reutilizables,2,12.50,25.00,entregado,2025-10-04,2025-10-11
+37,Andrés Torres,andres.torres@example.com,Botella de Agua Ecológica,1,18.75,18.75,pendiente,2025-10-03,2025-10-10
+38,Sofía Martínez,sofia.martinez@example.com,Set de Cubiertos de Bambú,2,11.00,22.00,enviado,2025-10-02,2025-10-09
+39,Diego Castro,diego.castro@example.com,Detergente Ecológico en Polvo,1,14.25,14.25,entregado,2025-10-01,2025-10-08
+40,Valentina Ruiz,valentina.ruiz@example.com,Paquete de Filtros de Café Reutilizables,2,6.50,13.00,pendiente,2025-09-30,2025-10-07
+41,Luis Fernández,luis.fernandez@example.com,Bolsas de Malla para Frutas,3,3.50,10.50,enviado,2025-09-29,2025-10-06
+42,María Gómez,maria.gomez@example.com,Set de Toallas de Algodón Orgánico,1,35.00,35.00,entregado,2025-09-28,2025-10-05
+43,Juan Pérez,juan.perez@example.com,Botella de Vidrio con Infusor,2,15.50,31.00,pendiente,2025-09-27,2025-10-04
+44,Carolina Rojas,carolina.rojas@example.com,Lámpara Solar de Jardín,1,40.00,40.00,enviado,2025-09-26,2025-10-03
+45,Andrés Torres,andres.torres@example.com,Set de Platos Biodegradables,5,3.25,16.25,entregado,2025-09-25,2025-10-02
+46,Sofía Martínez,sofia.martinez@example.com,Paquete de Bolsas de Té Reutilizables,3,2.50,7.50,pendiente,2025-09-24,2025-10-01
+47,Diego Castro,diego.castro@example.com,Cubo de Compostaje Exterior,1,55.00,55.00,enviado,2025-09-23,2025-09-30
+48,Valentina Ruiz,valentina.ruiz@example.com,Lápices de Bambú,10,0.85,8.50,entregado,2025-09-22,2025-09-29
+49,Luis Fernández,luis.fernandez@example.com,Set de Pajitas de Acero Inoxidable,3,4.99,14.97,pendiente,2025-09-21,2025-09-28
+50,María Gómez,maria.gomez@example.com,Paquete de Bolsas Reutilizables,2,12.50,25.00,enviado,2025-09-20,2025-09-27
+51,Juan Pérez,juan.perez@example.com,Botella de Agua Ecológica,1,18.75,18.75,entregado,2025-09-19,2025-09-26
+52,Carolina Rojas,carolina.rojas@example.com,Set de Cubiertos de Bambú,2,11.00,22.00,pendiente,2025-09-18,2025-09-25
+53,Andrés Torres,andres.torres@example.com,Detergente Ecológico en Polvo,1,14.25,14.25,enviado,2025-09-17,2025-09-24
+54,Sofía Martínez,sofia.martinez@example.com,Paquete de Filtros de Café Reutilizables,2,6.50,13.00,entregado,2025-09-16,2025-09-23
+55,Diego Castro,diego.castro@example.com,Bolsas de Malla para Frutas,3,3.50,10.50,pendiente,2025-09-15,2025-09-22
+56,Valentina Ruiz,valentina.ruiz@example.com,Set de Toallas de Algodón Orgánico,1,35.00,35.00,enviado,2025-09-14,2025-09-21
+57,Luis Fernández,luis.fernandez@example.com,Botella de Vidrio con Infusor,2,15.50,31.00,entregado,2025-09-13,2025-09-20
+58,María Gómez,maria.gomez@example.com,Lámpara Solar de Jardín,1,40.00,40.00,pendiente,2025-09-12,2025-09-19
+59,Juan Pérez,juan.perez@example.com,Set de Platos Biodegradables,5,3.25,16.25,enviado,2025-09-11,2025-09-18
+60,Carolina Rojas,carolina.rojas@example.com,Paquete de Bolsas de Té Reutilizables,3,2.50,7.50,entregado,2025-09-10,2025-09-17
+61,Andrés Torres,andres.torres@example.com,Cubo de Compostaje Exterior,1,55.00,55.00,pendiente,2025-09-09,2025-09-16
+62,Sofía Martínez,sofia.martinez@example.com,Lápices de Bambú,10,0.85,8.50,enviado,2025-09-08,2025-09-15
+63,Diego Castro,diego.castro@example.com,Set de Pajitas de Acero Inoxidable,3,4.99,14.97,entregado,2025-09-07,2025-09-14
+64,Valentina Ruiz,valentina.ruiz@example.com,Paquete de Bolsas Reutilizables,2,12.50,25.00,pendiente,2025-09-06,2025-09-13
+65,Luis Fernández,luis.fernandez@example.com,Botella de Agua Ecológica,1,18.75,18.75,enviado,2025-09-05,2025-09-12
+66,María Gómez,maria.gomez@example.com,Set de Cubiertos de Bambú,2,11.00,22.00,entregado,2025-09-04,2025-09-11
+67,Juan Pérez,juan.perez@example.com,Detergente Ecológico en Polvo,1,14.25,14.25,pendiente,2025-09-03,2025-09-10
+68,Carolina Rojas,carolina.rojas@example.com,Paquete de Filtros de Café Reutilizables,2,6.50,13.00,enviado,2025-09-02,2025-09-09
+69,Andrés Torres,andres.torres@example.com,Bolsas de Malla para Frutas,3,3.50,10.50,entregado,2025-09-01,2025-09-08
+70,Sofía Martínez,sofia.martinez@example.com,Set de Toallas de Algodón Orgánico,1,35.00,35.00,pendiente,2025-08-31,2025-09-07
+71,Diego Castro,diego.castro@example.com,Botella de Vidrio con Infusor,2,15.50,31.00,enviado,2025-08-30,2025-09-06
+72,Valentina Ruiz,valentina.ruiz@example.com,Lámpara Solar de Jardín,1,40.00,40.00,entregado,2025-08-29,2025-09-05
+73,Luis Fernández,luis.fernandez@example.com,Set de Platos Biodegradables,5,3.25,16.25,pendiente,2025-08-28,2025-09-04
+74,María Gómez,maria.gomez@example.com,Paquete de Bolsas de Té Reutilizables,3,2.50,7.50,enviado,2025-08-27,2025-09-03
+75,Juan Pérez,juan.perez@example.com,Cubo de Compostaje Exterior,1,55.00,55.00,entregado,2025-08-26,2025-09-02
+76,Carolina Rojas,carolina.rojas@example.com,Lápices de Bambú,10,0.85,8.50,pendiente,2025-08-25,2025-09-01
+77,Andrés Torres,andres.torres@example.com,Set de Pajitas de Acero Inoxidable,3,4.99,14.97,enviado,2025-08-24,2025-08-31
+78,Sofía Martínez,sofia.martinez@example.com,Paquete de Bolsas Reutilizables,2,12.50,25.00,entregado,2025-08-23,2025-08-30
+79,Diego Castro,diego.castro@example.com,Botella de Agua Ecológica,1,18.75,18.75,pendiente,2025-08-22,2025-08-29
+80,Valentina Ruiz,valentina.ruiz@example.com,Set de Cubiertos de Bambú,2,11.00,22.00,enviado,2025-08-21,2025-08-28
+81,Luis Fernández,luis.fernandez@example.com,Detergente Ecológico en Polvo,1,14.25,14.25,entregado,2025-08-20,2025-08-27
+82,María Gómez,maria.gomez@example.com,Paquete de Filtros de Café Reutilizables,2,6.50,13.00,pendiente,2025-08-19,2025-08-26
+83,Juan Pérez,juan.perez@example.com,Bolsas de Malla para Frutas,3,3.50,10.50,enviado,2025-08-18,2025-08-25
+84,Carolina Rojas,carolina.rojas@example.com,Set de Toallas de Algodón Orgánico,1,35.00,35.00,entregado,2025-08-17,2025-08-24
+85,Andrés Torres,andres.torres@example.com,Botella de Vidrio con Infusor,2,15.50,31.00,pendiente,2025-08-16,2025-08-23
+86,Sofía Martínez,sofia.martinez@example.com,Lámpara Solar de Jardín,1,40.00,40.00,enviado,2025-08-15,2025-08-22
+87,Diego Castro,diego.castro@example.com,Set de Platos Biodegradables,5,3.25,16.25,entregado,2025-08-14,2025-08-21
+88,Valentina Ruiz,valentina.ruiz@example.com,Paquete de Bolsas de Té Reutilizables,3,2.50,7.50,pendiente,2025-08-13,2025-08-20
+89,Luis Fernández,luis.fernandez@example.com,Cubo de Compostaje Exterior,1,55.00,55.00,enviado,2025-08-12,2025-08-19
+90,María Gómez,maria.gomez@example.com,Lápices de Bambú,10,0.85,8.50,entregado,2025-08-11,2025-08-18
+91,Juan Pérez,juan.perez@example.com,Set de Pajitas de Acero Inoxidable,3,4.99,14.97,pendiente,2025-08-10,2025-08-17
+92,Carolina Rojas,carolina.rojas@example.com,Paquete de Bolsas Reutilizables,2,12.50,25.00,enviado,202
+

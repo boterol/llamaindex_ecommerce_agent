@@ -1,0 +1,101 @@
+order_id,customer_id,product,category,price,quantity,order_date,payment_method,estado
+O0001,C001,Cepillo de Dientes de Bambú,higiene,8500,2,2025-01-10,Tarjeta de Crédito,recibido
+O0002,C002,Tarjeta Regalo $50,tarjetas de regalo,50000,1,2025-01-11,Tarjeta de Débito,recibido
+O0003,C003,Botella Reutilizable Acero Grabada,personalizado,45000,1,2025-01-12,PayPal,recibido
+O0004,C004,Jabón Artesanal Aloe Vera,higiene,6500,3,2025-01-13,Efectivo,recibido
+O0005,C005,Software Gestión Huella Carbono,software,180000,1,2025-01-14,PayPal,recibido
+O0006,C006,Notebook Papel Reciclado,papelería ecológica,18000,2,2025-10-25,Efectivo,recibido
+O0007,C007,Bolsas Reutilizables Algodón,hogar sostenible,12000,4,2025-01-16,Efectivo,recibido
+O0008,C008,Maceta Biodegradable,jardinería,9500,5,2025-01-17,Tarjeta de Débito,devuelto
+O0009,C009,Cuaderno Personalizado con Nombre,personalizado,25000,1,2025-01-18,Efectivo,recibido
+O0010,C010,Zapatillas Fibra Natural,moda sostenible,68000,1,2025-01-19,Tarjeta de Crédito,recibido
+O0011,C011,Camiseta Algodón Orgánico,moda sostenible,32000,2,2025-01-20,Efectivo,recibido
+O0012,C012,Copa Menstrual Silicona,higiene,45000,1,2025-01-21,PayPal,recibido
+O0013,C013,Vela Cera de Soja,decoración,16000,3,2025-01-22,PayPal,recibido
+O0014,C014,Pañales Reutilizables Set,bebé ecológico,95000,1,2025-01-23,Tarjeta de Crédito,recibido
+O0015,C015,Panel Solar Portátil,energía renovable,320000,1,2025-01-24,Efectivo,enviado
+O0016,C016,Reloj Madera Grabado Personalizado,personalizado,145000,1,2025-01-25,PayPal,recibido
+O0017,C017,Sandalias Cuero Vegano,moda sostenible,58000,1,2025-01-26,Tarjeta de Débito,recibido
+O0018,C018,Tarjeta Regalo $100,tarjetas de regalo,100000,1,2025-01-27,PayPal,recibido
+O0019,C019,Champú Sólido Lavanda,higiene,15000,2,2025-01-28,Tarjeta de Débito,recibido
+O0020,C020,Compostador Doméstico,jardinería,85000,1,2025-01-29,PayPal,recibido
+O0021,C021,Software Calculadora Carbono Premium,software,350000,1,2025-01-30,Tarjeta de Crédito,recibido
+O0022,C022,Mochila Lona Reciclada,accesorios,72000,1,2025-01-31,PayPal,recibido
+O0023,C023,Semillas Orgánicas Mix,jardinería,12000,3,2025-02-01,Efectivo,enviado
+O0024,C024,Vaso Térmico Bambú Personalizado,personalizado,38000,1,2025-02-02,Tarjeta de Crédito,recibido
+O0025,C025,Pasta Dental Natural,higiene,9500,2,2025-02-03,Tarjeta de Débito,recibido
+O0026,C026,Lámpara LED Solar,iluminación,55000,2,2025-02-04,PayPal,recibido
+O0027,C027,Tarjeta Regalo $25,tarjetas de regalo,25000,2,2025-02-05,Efectivo,recibido
+O0028,C028,Alfombra Yute Natural,decoración,125000,1,2025-02-06,Tarjeta de Crédito,enviado
+O0029,C029,Kit Huerto Urbano,jardinería,48000,1,2025-02-07,PayPal,recibido
+O0030,C030,Desodorante Sólido Natural,higiene,13500,3,2025-02-08,Tarjeta de Débito,recibido
+O0031,C031,Cargador Solar USB,energía renovable,42000,2,2025-02-09,Efectivo,recibido
+O0032,C032,Taza Cerámica con Frase Grabada,personalizado,22000,1,2025-02-10,PayPal,recibido
+O0033,C033,Jabón Líquido Eco Recarga,higiene,18000,2,2025-02-11,Tarjeta de Crédito,recibido
+O0034,C034,Software Eco-Planificador Mensual,software,28000,1,2025-02-12,PayPal,recibido
+O0035,C035,Jeans Algodón Reciclado,moda sostenible,89000,1,2025-02-13,Tarjeta de Débito,devuelto
+O0036,C036,Plato Bambú Biodegradable Set,hogar sostenible,35000,1,2025-02-14,Efectivo,recibido
+O0037,C037,Filtro Agua Carbón Activado,hogar sostenible,65000,1,2025-02-15,PayPal,recibido
+O0038,C038,Esponja Lufa Natural,higiene,7500,4,2025-02-16,Efectivo,recibido
+O0039,C039,Collar Semillas Tagua,joyería ecológica,28000,1,2025-02-17,Tarjeta de Crédito,recibido
+O0040,C040,Tarjeta Regalo $150,tarjetas de regalo,150000,1,2025-02-18,PayPal,recibido
+O0041,C041,Aceite Esencial Lavanda,aromaterapia,25000,2,2025-02-19,Tarjeta de Débito,enviado
+O0042,C042,Cuadro Madera Reciclada Personalizado,personalizado,95000,1,2025-02-20,Efectivo,recibido
+O0043,C043,Termo Acero Inoxidable,hogar sostenible,48000,1,2025-02-21,PayPal,recibido
+O0044,C044,Set Cubiertos Bambú,hogar sostenible,22000,2,2025-02-22,Tarjeta de Crédito,recibido
+O0045,C045,Crema Facial Natural,cosmética natural,42000,1,2025-02-23,Tarjeta de Débito,recibido
+O0046,C046,Software Gestión Residuos Empresarial,software,520000,1,2025-02-24,PayPal,recibido
+O0047,C047,Gorra Algodón Orgánico,moda sostenible,28000,2,2025-02-25,Efectivo,recibido
+O0048,C048,Papel Higiénico Bambú Pack,higiene,32000,1,2025-02-26,Tarjeta de Crédito,recibido
+O0049,C049,Difusor Aromas Cerámica,aromaterapia,38000,1,2025-02-27,PayPal,recibido
+O0050,C050,Cortina Lino Natural,decoración,95000,2,2025-02-28,Tarjeta de Débito,recibido
+O0051,C051,Llavero Madera Grabado Nombre,personalizado,12000,3,2025-03-01,Efectivo,recibido
+O0052,C052,Shampoo Barra Sin Sulfatos,higiene,16000,2,2025-03-02,PayPal,recibido
+O0053,C053,Kit Limpieza Ecológica,hogar sostenible,55000,1,2025-03-03,Tarjeta de Crédito,sin enviar
+O0054,C054,Tarjeta Regalo $200,tarjetas de regalo,200000,1,2025-03-04,Tarjeta de Débito,recibido
+O0055,C055,Turbina Eólica Mini,energía renovable,185000,1,2025-03-05,PayPal,enviado
+O0056,C056,Almohada Algodón Orgánico,textil sostenible,58000,2,2025-03-06,Efectivo,recibido
+O0057,C057,Software Registro Compostaje,software,45000,1,2025-03-07,Tarjeta de Crédito,recibido
+O0058,C058,Protector Labial Natural,cosmética natural,8500,4,2025-03-08,PayPal,recibido
+O0059,C059,Bufanda Lana Merino Sostenible,moda sostenible,52000,1,2025-03-09,Tarjeta de Débito,recibido
+O0060,C060,Planta Purificadora Aire,jardinería,35000,2,2025-03-10,Efectivo,recibido
+O0061,C061,Diario Cuero Vegano Personalizado,personalizado,68000,1,2025-03-11,PayPal,recibido
+O0062,C062,Cera Depilación Natural,higiene,22000,1,2025-03-12,Tarjeta de Crédito,recibido
+O0063,C063,Bombilla LED Inteligente,iluminación,32000,3,2025-03-13,Tarjeta de Débito,sin enviar
+O0064,C064,Tabla Cortar Bambú Grabada,personalizado,45000,1,2025-03-14,Efectivo,recibido
+O0065,C065,Exfoliante Corporal Café,cosmética natural,18000,2,2025-03-15,PayPal,recibido
+O0066,C066,Colchoneta Yoga Corcho,deportes sostenibles,78000,1,2025-03-16,Tarjeta de Crédito,enviado
+O0067,C067,Tarjeta Regalo $75,tarjetas de regalo,75000,2,2025-03-17,Tarjeta de Débito,recibido
+O0068,C068,Funda Laptop Fieltro Reciclado,accesorios,42000,1,2025-03-18,PayPal,recibido
+O0069,C069,Sistema Riego Goteo Solar,jardinería,125000,1,2025-03-19,Efectivo,recibido
+O0070,C070,Toallitas Desmaquillantes Reutilizables,higiene,25000,2,2025-03-20,Tarjeta de Crédito,recibido
+O0071,C071,Software Rastreador Sostenibilidad,software,95000,1,2025-03-21,PayPal,recibido
+O0072,C072,Vestido Lino Orgánico,moda sostenible,115000,1,2025-03-22,Tarjeta de Débito,sin enviar
+O0073,C073,Espejo Madera Reciclada,decoración,68000,1,2025-03-23,Efectivo,recibido
+O0074,C074,Pulsera Semillas Acai Personalizada,personalizado,18000,2,2025-03-24,PayPal,recibido
+O0075,C075,Acondicionador Sólido,higiene,17000,1,2025-03-25,Tarjeta de Crédito,recibido
+O0076,C076,Recipiente Vidrio Hermético Set,hogar sostenible,48000,1,2025-03-26,Tarjeta de Débito,recibido
+O0077,C077,Incienso Natural Sándalo,aromaterapia,12000,3,2025-03-27,Efectivo,enviado
+O0078,C078,Batería Externa Solar,energía renovable,85000,1,2025-03-28,PayPal,recibido
+O0079,C079,Camisa Cáñamo Orgánico,moda sostenible,72000,1,2025-03-29,Tarjeta de Crédito,sin enviar
+O0080,C080,Tarjeta Regalo $300,tarjetas de regalo,300000,1,2025-03-30,Tarjeta de Débito,recibido
+O0081,C081,Máscara Facial Arcilla,cosmética natural,28000,2,2025-03-31,PayPal,recibido
+O0082,C082,Cuaderno Corcho Personalizado,personalizado,32000,1,2025-04-01,Efectivo,recibido
+O0083,C083,Peine Madera Natural,higiene,11000,3,2025-04-02,Tarjeta de Crédito,enviado
+O0084,C084,Canasta Mimbre Tejida,decoración,45000,1,2025-04-03,PayPal,recibido
+O0085,C085,Software Huella Hídrica Pro,software,240000,1,2025-04-04,Tarjeta de Débito,recibido
+O0086,C086,Manta Algodón Reciclado,textil sostenible,85000,1,2025-04-05,Efectivo,sin enviar
+O0087,C087,Vinagre Limpieza Ecológico,hogar sostenible,8500,4,2025-04-06,PayPal,recibido
+O0088,C088,Aretes Madera Tallada,joyería ecológica,22000,1,2025-04-07,Tarjeta de Crédito,recibido
+O0089,C089,Crema Manos Natural,cosmética natural,15000,2,2025-04-08,Tarjeta de Débito,enviado
+O0090,C090,Compresor Aire Solar,energía renovable,275000,1,2025-04-09,Efectivo,sin enviar
+O0091,C091,Cafetera Prensa Francesa,hogar sostenible,52000,1,2025-04-10,PayPal,recibido
+O0092,C092,Jabón Exfoliante Avena,higiene,9500,3,2025-04-11,Tarjeta de Crédito,recibido
+O0093,C093,Bolso Yute Personalizado,personalizado,48000,1,2025-04-12,Tarjeta de Débito,devuelto
+O0094,C094,Shorts Algodón Orgánico,moda sostenible,38000,2,2025-04-13,Efectivo,recibido
+O0095,C095,Tarjeta Regalo $500,tarjetas de regalo,500000,1,2025-04-14,PayPal,recibido
+O0096,C096,Mantillo Orgánico Pack,jardinería,28000,2,2025-04-15,Tarjeta de Crédito,sin enviar
+O0097,C097,Cortauñas Acero Inoxidable,higiene,12000,2,2025-04-16,Tarjeta de Débito,enviado
+O0098,C098,Software Auditoría Ambiental,software,680000,1,2025-04-17,PayPal,recibido
+O0099,C099,Jarra Filtro Agua Carbón,hogar sostenible,58000,1,2025-04-18,Efectivo,sin enviar
+O0100,C100,Aceite Corporal Almendras,cosmética natural,32000,1,2025-04-19,Tarjeta de Crédito,recibido
